@@ -30,7 +30,7 @@ me because it was just so cool. But other than the that, this was all just a lit
 
 ### Future GOALS
 Even though this project was pretty much a joke, that doesn't mean the grind stops here. My future goals are:
-- [] Make the processing of adding links to the list more human proof (no repeats and in order)
-- [] Email pictures to people
-- [] Make this into an Alexa App
+- [ ] Make the processing of adding links to the list more human proof (no repeats and in order)
+- [ ] Email pictures to people
+- [ ] Make this into an Alexa App
 
