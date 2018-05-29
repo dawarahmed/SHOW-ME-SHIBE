@@ -19,7 +19,7 @@ After installing requests, you can just run the python script and let the magic 
 To run the file and choose if you want Shibe, Cats or Dogs and how many pictures you want, just run the script with the
 argument "settings".
 
-```python3 shibe.py settings````
+```python3 shibe.py settings```
 
 After viewing the photos, each photos is given a number and you can enter the number of the photos you liked and the
 corresponding links will be opened in txt file. 
