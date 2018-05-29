@@ -14,7 +14,7 @@ the requests python module as the script makes GET requests to the Shibe.Online 
 
 After installing requests, you can just run the python script and let the magic happen. 
 
-```python3 shibe.py
+```python3 shibe.py```
 
 To run the file and choose if you want Shibe, Cats or Dogs and how many pictures you want, just run the script with the
 argument "settings".
